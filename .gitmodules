@@ -47,3 +47,6 @@
 [submodule "sharedmem"]
 	path = sharedmem
 	url = https://github.com/peterhj/sharedmem.git
+[submodule "gpudevicemem"]
+	path = gpudevicemem
+	url = https://github.com/peterhj/gpudevicemem.git
