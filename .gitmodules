@@ -1,0 +1,43 @@
+[submodule "arrayidx"]
+	path = arrayidx
+	url = https://github.com/peterhj/arrayidx.git
+[submodule "memarray"]
+	path = memarray
+	url = https://github.com/peterhj/memarray.git
+[submodule "minidata"]
+	path = minidata
+	url = https://github.com/peterhj/minidata.git
+[submodule "pillowimage"]
+	path = pillowimage
+	url = https://github.com/peterhj/pillowimage.git
+[submodule "colorimage"]
+	path = colorimage
+	url = https://github.com/peterhj/colorimage.git
+[submodule "rngtape"]
+	path = rngtape
+	url = https://github.com/peterhj/rngtape.git
+[submodule "libcuda"]
+	path = libcuda
+	url = https://github.com/peterhj/libcuda.git
+[submodule "cuda_blas"]
+	path = cuda_blas
+	url = https://github.com/peterhj/cuda_blas.git
+[submodule "cuda_dnn"]
+	path = cuda_dnn
+	url = https://github.com/peterhj/cuda_dnn.git
+[submodule "cuda_rand"]
+	path = cuda_rand
+	url = https://github.com/peterhj/cuda_rand.git
+[submodule "cuda_coll"]
+	path = cuda_coll
+	url = https://github.com/peterhj/cuda_coll.git
+[submodule "rust-stb-image"]
+	path = rust-stb-image
+	url = https://github.com/peterhj/rust-stb-image.git
+	branch = peterhj-resize
+[submodule "extar"]
+	path = extar
+	url = https://github.com/peterhj/extar.git
+[submodule "float"]
+	path = float
+	url = https://github.com/peterhj/float.git
