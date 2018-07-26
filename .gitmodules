@@ -50,3 +50,6 @@
 [submodule "gpudevicemem"]
 	path = gpudevicemem
 	url = https://github.com/peterhj/gpudevicemem.git
+[submodule "anode"]
+	path = anode
+	url = https://github.com/peterhj/anode.git
