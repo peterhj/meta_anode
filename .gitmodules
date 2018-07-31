@@ -53,3 +53,7 @@
 [submodule "anode"]
 	path = anode
 	url = https://github.com/peterhj/anode.git
+[submodule "cc-rs"]
+	path = cc-rs
+	url = https://github.com/peterhj/cc-rs.git
+	branch = peterhj-explicit-flags-devel
